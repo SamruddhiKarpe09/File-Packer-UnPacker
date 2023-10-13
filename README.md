@@ -1,5 +1,30 @@
 # File-Packer-UnPacker
 
+# In this project we have use Java as Front end as well as Backend for platform independency.
+
+# Front end
+
+# We have create one window which accept username and password from user for authentication purpose.
+
+# When user Submit the username and  password we have to check whether user is "MarvellousAdmin" and password is "MarvellousAdmin". 
+
+# After successful authentication we have to open new window which displays two option as Pack and Unpack.
+
+# When user press Pack button a new window is opened. From this newly opened window we have to accept name of directory that we want to pack and name of the packed file from user.
+
+# Name of the packed file gets newly created which contains data and metadata of all file from that directory.
+
+# When user click submit button we have to perform "Packing Activity". After that previous window shouls be displayed.
+
+# When user click Unpack button a new window is diplayed. from this window accept name of packed file
+
+# when user click Extract button we have to [erform " Unpacking Activity".  
+
+
+
+
+#Backend Logic
+
 # Packing Acitivity:
 # In case of packing activity we accept directory name and file name from user
 # We have to create new regular file as the name specified by the user.
